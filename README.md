@@ -5,6 +5,7 @@ frames of FC Barcelona – Athletic Club, label who has the ball (`H` home, `A` 
 `X` no answer).
 
 - **Submitted file:** [`submission/Soma_AI.csv`](submission/Soma_AI.csv) (version v11 of our pipeline)
+- **Technical document:** [`submission/Soma_AI.md`](submission/Soma_AI.md)
 - **Regenerate it:** `./reproduce.sh` (see below)
 - **How it works, every version we tried, and results:** [`docs/TEAM_GUIDE.md`](docs/TEAM_GUIDE.md)
 
