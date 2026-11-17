@@ -1,0 +1,9 @@
+# Main environment: features, v1-v11, evaluation, plots, comparison site.
+# conda create -n soccer python=3.11 && conda activate soccer && pip install -r environments/soccer.txt
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+matplotlib==3.11.2
+pillow==12.3.0
+kloppy==3.18.0
+notebook==7.6.5
